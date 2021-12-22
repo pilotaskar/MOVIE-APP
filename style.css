@@ -53,10 +53,11 @@ main{
     border-radius: 3px;
     box-shadow: 0.2px 4px 5px rgba(0, 0, 0, 0.1);
     background-color: var(--secondary-color);
+    /* BUL EKOOSUN ZHANY PROJEGE KOSHPODUM ASTYNDAGY */
     position: relative;
     overflow: hidden;
 }
-
+/* extra add */
 .movie img {
     width: 100%;
 }
